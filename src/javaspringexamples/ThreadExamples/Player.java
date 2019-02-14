@@ -1,9 +1,9 @@
-package com.codercocoon.ThreadExamples;
+package javaspringexamples.ThreadExamples;
 
 /**
  * This example shows how to use notify() and wait() methods of Thread class.
  * 
- * @author contact@codercocoon.com
+ * @author mounir.sahrani@gmail.com
  *
  */
 public class Player extends Thread {
